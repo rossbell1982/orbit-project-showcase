@@ -27,6 +27,8 @@ Rather than simply scrolling through information, users explore a connected soci
 
 ORBIT aims to introduce a more visual, intuitive and relationship-driven social networking experience.
 
+![ORBIT Product Vision](orbit-vision.png)
+
 The proposed experience begins with a cinematic, interactive globe that provides a geographical perspective on the user's social world.
 
 As users navigate towards a location or community, the interface transitions into an interactive graph of relationships.
