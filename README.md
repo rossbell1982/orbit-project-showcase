@@ -5,6 +5,8 @@
 
 `Product Innovation` · `Graph Architecture` · `Next.js` · `TypeScript` · `Privacy Engineering` · `AI-Assisted Development`
 
+![ORBIT — Graph-Native Social Network](orbit-hero.png)
+
 ---
 
 ## 🌍 Overview
