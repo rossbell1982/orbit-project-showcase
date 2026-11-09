@@ -198,7 +198,7 @@ The objective is to demonstrate how AI-enabled development can support disciplin
 
 ORBIT is an actively developed prototype.
 
-![ORBIT Development Progress](orbit-prototype.png)
+![ORBIT Development Progress](orbit-prototype.PNG)
 
 ### Initial Foundation
 
